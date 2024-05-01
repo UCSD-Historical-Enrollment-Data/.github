@@ -1,10 +1,12 @@
 # UCSD Historical Enrollment Data
-This organization contains enrollment data for courses at UC San Diego. Data is organized so that each repository represents a term. 
+This organization contains enrollment data for courses at UC San Diego and relevant project files for gathering and processing that data. 
+
+Enrollment data is organized so that each repository represents a term. 
 
 ## Information
-If you're looking for information about this project, **please see [this repository](https://github.com/ewang2002/UCSDHistEnrollData)**, which is the "parent" repository; that is, all information regarding this project can be found there.
+If you're looking for information about this project, **please see [this repository](https://github.com/UCSD-Historical-Enrollment-Data/UCSDHistEnrollData)**, which is the "parent" repository; that is, all information regarding this project can be found there.
 
-Do not create issues or pull requests in any repositories under this organization; they will be ignored. Again, please direct all questions, comments, or concerns to the [linked repository](https://github.com/ewang2002/UCSDHistEnrollData).
+Any questions or comments about the project can be directed to [the organization's discussion tab](https://github.com/orgs/UCSD-Historical-Enrollment-Data/discussions). 
 
 ## Other Things
-This organization is not _officially_ affiliated with UC San Diego.
+This organization is not officially affiliated with UC San Diego.
